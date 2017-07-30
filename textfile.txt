@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 38A9-F735
+
+ Directory of C:\Stuff\GitMyfirst\MyFirst
+
+07/30/2017  05:11 PM    <DIR>          .
+07/30/2017  05:11 PM    <DIR>          ..
+07/30/2017  05:10 PM                36 README.md
+07/30/2017  05:11 PM                 0 textfile.txt
+               2 File(s)             36 bytes
+               2 Dir(s)  615,622,922,240 bytes free
